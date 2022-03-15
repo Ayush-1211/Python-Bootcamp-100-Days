@@ -22,3 +22,9 @@ states_of_america.extend(["Rajasthan", "Mumbai", "Delhi"])
 print(states_of_america)
 
 
+# Nested Lists
+fruits = ["apple", "banana", "mango"]
+vegetables = ["tomatoes", "potatoes", "garlic"]
+
+nested_list = [fruits, vegetables]
+print(nested_list)
