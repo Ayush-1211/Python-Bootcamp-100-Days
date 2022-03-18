@@ -3,8 +3,7 @@ Python Bootcamp 100 Days of Code
   
   Day-1 Working with variables
   
-  Day-2 Understanding Data types
-        How to manipulate strings
+  Day-2 Understanding Data types & How to manipulate strings
         
   Day-3 Control Flow and Logical Operations
   
