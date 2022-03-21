@@ -18,4 +18,6 @@ Python Bootcamp 100 Days of Code
   Day-8 Function Parameters & Caesar Cipher
   
   Day-9 Dictionaries, Nesting and Secret Auction
+  
+  Day-10 Functions with Outputs
 
