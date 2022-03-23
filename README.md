@@ -22,4 +22,6 @@ Python Bootcamp 100 Days of Code
   Day-10 Functions with Outputs
   
   Day-11 The BlackJack Capstone Project
+  
+  Day-12 Scope & Number Guessing Game
 
