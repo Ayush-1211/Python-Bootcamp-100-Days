@@ -25,3 +25,4 @@ Python Bootcamp 100 Days of Code
   
   Day-12 Scope & Number Guessing Game
 
+  Day-13 Debugging and How to find and Fix errors in your code
