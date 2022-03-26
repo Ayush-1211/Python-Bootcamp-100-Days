@@ -28,3 +28,5 @@ Python Bootcamp 100 Days of Code
   Day-13 Debugging and How to find and Fix errors in your code
   
   Day-14 Higher Lower Game Project
+  
+  Day-15 Local Development Environment Setup and The Coffee Machine Project
