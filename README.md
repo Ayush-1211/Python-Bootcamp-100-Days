@@ -32,3 +32,5 @@ Python Bootcamp 100 Days of Code
   Day-15 Local Development Environment Setup and The Coffee Machine Project
   
   Day-16 Object Oriented Programming (OOP)
+  
+  Day-17 Class, Methods, init and The Quiz Project
