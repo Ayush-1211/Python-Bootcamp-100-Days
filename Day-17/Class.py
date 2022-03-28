@@ -1,5 +1,6 @@
-class User():
+class User:
     pass
+
 
 user_1 = User()     # Class: User, Object: user_1
 user_1.id = "1"     # Attribute: id
