@@ -34,3 +34,5 @@ Python Bootcamp 100 Days of Code
   Day-16 Object Oriented Programming (OOP)
   
   Day-17 Class, Methods, init and The Quiz Project
+  
+  Day-18 Turtle and The Graphical User Interface GUI
