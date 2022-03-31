@@ -38,3 +38,5 @@ Python Bootcamp 100 Days of Code
   Day-18 Turtle and The Graphical User Interface GUI
   
   Day-19 Instances, State and Higher Order Functions
+  
+  Day-20 Build The Snake Game - Animation & Coordinates (Part-1)
