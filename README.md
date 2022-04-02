@@ -42,3 +42,5 @@ Python Bootcamp 100 Days of Code
   Day-20 Build The Snake Game - Animation & Coordinates (Part-1)
   
   Day-21 Build The Snake Game - Inheritance & List Slicing (Part-2)
+  
+  Day-22 Build PONG Game
