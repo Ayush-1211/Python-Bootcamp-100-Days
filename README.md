@@ -46,3 +46,5 @@ Python Bootcamp 100 Days of Code
   Day-22 Build PONG Game
   
   Day-23 The Turtle Crossing Capstone Project
+  
+  Day-24 Files, Dictionaries and Paths
