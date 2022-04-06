@@ -50,3 +50,5 @@ Python Bootcamp 100 Days of Code
   Day-24 Files, Dictionaries and Paths
   
   Day-25 Working with the CSV Data and Pandas Library
+  
+  Day-26 List Comprehension and The NATO Alphabet Project
