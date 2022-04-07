@@ -52,3 +52,5 @@ Python Bootcamp 100 Days of Code
   Day-25 Working with the CSV Data and Pandas Library
   
   Day-26 List Comprehension and The NATO Alphabet Project
+  
+  Day-27 Tkinter, _args_, __kwargs, and Creating GUI Programs
