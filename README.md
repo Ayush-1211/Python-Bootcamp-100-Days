@@ -54,3 +54,5 @@ Python Bootcamp 100 Days of Code
   Day-26 List Comprehension and The NATO Alphabet Project
   
   Day-27 Tkinter, _args_, __kwargs, and Creating GUI Programs
+  
+  Day-28 Tkinter Dynamic Typing and The Pomodoro GUI Application
