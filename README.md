@@ -60,3 +60,5 @@ Python Bootcamp 100 Days of Code
   Day-29 Building a Password Manager GUI App with Tkinter
   
   Day-30 Errors, Exceptions and JSON Data Improving the Password
+  
+  Day-31 Flash Card App Capstone Project
