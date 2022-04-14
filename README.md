@@ -66,3 +66,5 @@ Python Bootcamp 100 Days of Code
   Day-32 Send Email (smtplib) & Manage Dates (datetime)
   
   Day-33 API Endpoint and API Parameters ISS Overhead Notifier
+  
+  Day-34 API Practice - Creating a GUI Quiz App
