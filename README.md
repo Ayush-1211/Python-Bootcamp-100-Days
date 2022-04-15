@@ -68,3 +68,5 @@ Python Bootcamp 100 Days of Code
   Day-33 API Endpoint and API Parameters ISS Overhead Notifier
   
   Day-34 API Practice - Creating a GUI Quiz App
+  
+  Day-35 Key Authentication & Environment Variables Send SMS
