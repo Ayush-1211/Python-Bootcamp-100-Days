@@ -70,3 +70,5 @@ Python Bootcamp 100 Days of Code
   Day-34 API Practice - Creating a GUI Quiz App
   
   Day-35 Key Authentication & Environment Variables Send SMS
+  
+  Day-36 Stock Trading News Alert Project
