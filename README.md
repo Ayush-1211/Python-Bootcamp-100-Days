@@ -81,4 +81,6 @@ Python Bootcamp 100 Days of Code
   
   Day-40 Flight Deal Finder Part-2
   
-  Day-41 Web Foundation Introduction to HTML Part-1
+  Day-41 Web Foundation Introduction to HTML
+  
+  Day-42 Web Foundation - Intermediate HTML
