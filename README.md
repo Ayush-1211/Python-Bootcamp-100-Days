@@ -88,3 +88,5 @@ Python Bootcamp 100 Days of Code
   Day-43 Web Foundation Introduction to CSS
   
   Day-44 Web Foundation CSS
+  
+  Day-45 Web Scraping with Beautiful Soup
