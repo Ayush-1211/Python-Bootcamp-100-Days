@@ -90,3 +90,5 @@ Python Bootcamp 100 Days of Code
   Day-44 Web Foundation CSS
   
   Day-45 Web Scraping with Beautiful Soup
+  
+  Day-46 Create a Spotify Playlist using the Musical Time Machine
