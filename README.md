@@ -92,3 +92,5 @@ Python Bootcamp 100 Days of Code
   Day-45 Web Scraping with Beautiful Soup
   
   Day-46 Create a Spotify Playlist using the Musical Time Machine
+  
+  Day-47 Create an Automated Amazon Price Tracker
