@@ -94,3 +94,5 @@ Python Bootcamp 100 Days of Code
   Day-46 Create a Spotify Playlist using the Musical Time Machine
   
   Day-47 Create an Automated Amazon Price Tracker
+  
+  Day-48 Selenium Webdriver Browser and Game Playing Bot
