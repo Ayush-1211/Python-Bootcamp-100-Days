@@ -96,3 +96,5 @@ Python Bootcamp 100 Days of Code
   Day-47 Create an Automated Amazon Price Tracker
   
   Day-48 Selenium Webdriver Browser and Game Playing Bot
+  
+  Day-49 Automating Job Applications on LinkedIn
