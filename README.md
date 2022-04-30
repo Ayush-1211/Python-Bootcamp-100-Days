@@ -98,3 +98,5 @@ Python Bootcamp 100 Days of Code
   Day-48 Selenium Webdriver Browser and Game Playing Bot
   
   Day-49 Automating Job Applications on LinkedIn
+  
+  Day-50 Auto Tinder Swiping Bot
