@@ -100,3 +100,5 @@ Python Bootcamp 100 Days of Code
   Day-49 Automating Job Applications on LinkedIn
   
   Day-50 Auto Tinder Swiping Bot
+  
+  Day-51 Internet Speed Twitter Complaint Bot
