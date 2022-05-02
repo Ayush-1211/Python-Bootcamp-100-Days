@@ -102,3 +102,5 @@ Python Bootcamp 100 Days of Code
   Day-50 Auto Tinder Swiping Bot
   
   Day-51 Internet Speed Twitter Complaint Bot
+  
+  Day-52 Instagram Follower Bot
