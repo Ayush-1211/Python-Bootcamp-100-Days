@@ -104,3 +104,5 @@ Python Bootcamp 100 Days of Code
   Day-51 Internet Speed Twitter Complaint Bot
   
   Day-52 Instagram Follower Bot
+  
+  Day-53 Web Scraping Capstone - Data Entry Job Automation
