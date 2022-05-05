@@ -108,3 +108,5 @@ Python Bootcamp 100 Days of Code
   Day-53 Web Scraping Capstone - Data Entry Job Automation
   
   Day-54 Introduction to Web Development with Flask
+  
+  Day-55 HTML & URL Parsing in Flask and the Higher Lower Game
