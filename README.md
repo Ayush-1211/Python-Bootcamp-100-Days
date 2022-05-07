@@ -112,3 +112,5 @@ Python Bootcamp 100 Days of Code
   Day-55 HTML & URL Parsing in Flask and the Higher Lower Game
   
   Day-56 Rendering HTML Static Files and Using Website Templates
+  
+  Day-57 Templating with Jinja in Flask Applications
