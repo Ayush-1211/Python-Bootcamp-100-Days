@@ -116,3 +116,5 @@ Python Bootcamp 100 Days of Code
   Day-57 Templating with Jinja in Flask Applications
   
   Day-58 Web Foundation Bootstrap
+  
+  Day-59 Blog Capstone Project - Adding Styling
