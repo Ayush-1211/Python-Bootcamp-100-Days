@@ -120,3 +120,5 @@ Python Bootcamp 100 Days of Code
   Day-59 Blog Capstone Project - Adding Styling (Part 2)
   
   Day-60 Make POST Requests with Flask and HTML Forms
+  
+  Day-61 Building Advanced Forms with Flask-WTForms
