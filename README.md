@@ -134,3 +134,5 @@ Python Bootcamp 100 Days of Code
   Day-66 Building your own API with RESTful Routing
   
   Day-67 Blog Capstone Project Part 3 - RESTful Routing
+  
+  Day-68 Authentication with Flask
