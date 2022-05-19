@@ -136,3 +136,5 @@ Python Bootcamp 100 Days of Code
   Day-67 Blog Capstone Project Part 3 - RESTful Routing
   
   Day-68 Authentication with Flask
+  
+  Day-69 Blog Capstone Project Part 4 - Adding Users
