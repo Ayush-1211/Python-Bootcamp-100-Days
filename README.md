@@ -140,3 +140,5 @@ Python Bootcamp 100 Days of Code
   Day-69 Blog Capstone Project Part 4 - Adding Users
   
   Day-70 Deploying your Web Application with Heroku (No Source Code)
+  
+  Day-71 Data Exploration with Pandas College Major vs Your Salary
