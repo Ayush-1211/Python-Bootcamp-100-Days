@@ -142,3 +142,5 @@ Python Bootcamp 100 Days of Code
   Day-70 Deploying your Web Application with Heroku (No Source Code)
   
   Day-71 Data Exploration with Pandas College Major vs Your Salary
+  
+  Day-72 Data Visualisation with Matplotlib Programming Languages
