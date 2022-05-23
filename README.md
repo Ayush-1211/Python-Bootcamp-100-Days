@@ -144,3 +144,5 @@ Python Bootcamp 100 Days of Code
   Day-71 Data Exploration with Pandas College Major vs Your Salary
   
   Day-72 Data Visualisation with Matplotlib Programming Languages
+  
+  Day-73 Aggregate & Merge Data with Pandas Analyse the LEGO Dataset
