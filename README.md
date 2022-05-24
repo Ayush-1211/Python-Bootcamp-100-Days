@@ -146,3 +146,5 @@ Python Bootcamp 100 Days of Code
   Day-72 Data Visualisation with Matplotlib Programming Languages
   
   Day-73 Aggregate & Merge Data with Pandas Analyse the LEGO Dataset
+  
+  Day-74 Google Trends Data Resampling and Visualising Time Series
