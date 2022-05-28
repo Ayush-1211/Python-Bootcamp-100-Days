@@ -154,3 +154,5 @@ Python Bootcamp 100 Days of Code
   Day-76 Computation with NumPy and N-Dimensional Arrays
   
   Day-77 Linear Regression and Data Visualisation with Seaborn
+  
+  Day-78 Analysing the Nobel Prize with Plotly Matplotlib and Seaborn
