@@ -156,3 +156,5 @@ Python Bootcamp 100 Days of Code
   Day-77 Linear Regression and Data Visualisation with Seaborn
   
   Day-78 Analysing the Nobel Prize with Plotly Matplotlib and Seaborn
+  
+  Day-79 The Tragic Discovery of Handwashing Tests and Distributions
