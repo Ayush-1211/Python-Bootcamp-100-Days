@@ -158,3 +158,5 @@ Python Bootcamp 100 Days of Code
   Day-78 Analysing the Nobel Prize with Plotly Matplotlib and Seaborn
   
   Day-79 The Tragic Discovery of Handwashing Tests and Distributions
+  
+  Day-80 Capstone Project - Predict House Price
