@@ -160,3 +160,5 @@ Python Bootcamp 100 Days of Code
   Day-79 The Tragic Discovery of Handwashing Tests and Distributions
   
   Day-80 Capstone Project - Predict House Price
+  
+  Day-81 Professional Portfolio Project - Python Scripting (No Source Code)
