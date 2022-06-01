@@ -162,3 +162,5 @@ Python Bootcamp 100 Days of Code
   Day-80 Capstone Project - Predict House Price
   
   Day-81 Professional Portfolio Project - Python Scripting (No Source Code)
+  
+  Day-82 Professional Portfolio Project - Python Web Development (No Source Code)
