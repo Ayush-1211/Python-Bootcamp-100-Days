@@ -164,3 +164,5 @@ Python Bootcamp 100 Days of Code
   Day-81 Professional Portfolio Project - Python Scripting (No Source Code)
   
   Day-82 Professional Portfolio Project - Python Web Development (No Source Code)
+  
+  Day-83 Professional Portfolio Project - Python Scripting
