@@ -178,3 +178,5 @@ Python Bootcamp 100 Days of Code
   Day-88 Professional Portfolio Project - Web Development (No Source Code)
   
   Day-89 Professional Portfolio Project - GUI Desktop App (No Source Code)
+  
+  Day-90 Professional Portfolio Project - HTTP Requests & APIs (No Source Code)
