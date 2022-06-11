@@ -182,3 +182,5 @@ Python Bootcamp 100 Days of Code
   Day-90 Professional Portfolio Project - HTTP Requests & APIs (No Source Code)
   
   Day-91 Professional Portfolio Project - Image Processing & Data Science (No source Code)
+  
+  Day-92 Professional Portfolio Project - Web Scraping (No Source Code)
