@@ -184,3 +184,5 @@ Python Bootcamp 100 Days of Code
   Day-91 Professional Portfolio Project - Image Processing & Data Science (No source Code)
   
   Day-92 Professional Portfolio Project - Web Scraping (No Source Code)
+  
+  Day-93 Professional Portfolio Project - GUI Automation (No Source Code)
