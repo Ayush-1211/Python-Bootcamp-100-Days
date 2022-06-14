@@ -188,3 +188,5 @@ Python Bootcamp 100 Days of Code
   Day-93 Professional Portfolio Project - GUI Automation (No Source Code)
   
   Day-94 Professional Portfolio Project - Game (No Source Code)
+  
+  Day-95 Professional Portfolio Project - HTTP Requests & APIs (No Source Code)
